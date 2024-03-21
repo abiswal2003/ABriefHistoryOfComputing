@@ -14,3 +14,5 @@ MIT's Railroad Club: https://www.wired.com/2014/11/the-tech-model-railroad-club/
 
 The initial history of Linux: https://www.cs.cmu.edu/~awb/linux.history.html
 
+From Xerox Parc to Apple and back: https://www.newyorker.com/magazine/2011/05/16/creation-myth
+
