@@ -1,5 +1,7 @@
 Here are some Web Page based sources:
 
+The Anti-Kytheria mechanism: https://www.scientificamerican.com/article/an-ancient-greek-astronomical-calculation-machine-reveals-new-secrets/
+
 On Ada Lovelace: https://www.newyorker.com/tech/annals-of-technology/ada-lovelace-the-first-tech-visionary
 
 The "Programmers", and how women have been often written out of computing history: https://www.smithsonianmag.com/science-nature/history-human-computers-180972202/
