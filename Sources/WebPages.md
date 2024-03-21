@@ -12,3 +12,5 @@ Who is a Hacker? https://medium.com/backchannel/what-is-a-hacker-51257cad8b54
 
 MIT's Railroad Club: https://www.wired.com/2014/11/the-tech-model-railroad-club/
 
+The initial history of Linux: https://www.cs.cmu.edu/~awb/linux.history.html
+
