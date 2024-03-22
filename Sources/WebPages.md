@@ -16,3 +16,11 @@ The initial history of Linux: https://www.cs.cmu.edu/~awb/linux.history.html
 
 From Xerox Parc to Apple and back: https://www.newyorker.com/magazine/2011/05/16/creation-myth
 
+How Steve Jobs wormed his way back: https://bretwaters.medium.com/the-day-that-apple-bought-next-73ac3c1c1aa6
+
+The genesis of the iphone: https://www.history.com/news/iphone-original-size-invention-steve-jobs
+
+https://www.britannica.com/topic/Microsoft-Corporation
+
+
+
